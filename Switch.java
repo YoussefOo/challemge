@@ -28,7 +28,7 @@ public class Switch {
 //            // yield badResponse;
 //        };
 
-        char variable = 'A';
+        char variable = 'D';
         switch (variable) {
             case 'A':
                 System.out.println("Able");

@@ -18,7 +18,7 @@ public class FirstClas {
         double one = 20.00d;
         double two = 80.00d;
         double tree = (one + two)*100.00d;
-        double four = tree%40.00d;
+        double four = tree%30.00d;
         System.out.println(four);
         boolean five = (four == 0) ? true : false;
         System.out.println(five);
