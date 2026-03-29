@@ -1,3 +1,4 @@
+// coding exercise: Convert Megabytes to Kilobytes 3
 import java.util.Scanner;
 
 public class MegatoKilo {
